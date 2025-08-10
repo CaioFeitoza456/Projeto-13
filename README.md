@@ -1,2 +1,2 @@
-# Projeto-13
-Joguinho de matemática
+Para o funcionamento do programa, mantenha
+os arquivos na mesma pasta.
